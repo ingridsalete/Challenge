@@ -33,5 +33,5 @@ Este é um projeto de um sorteador de **Amigo Secreto** desenvolvido utilizando 
 ```
 
 ## **Autora**
-Desenvolvido por ** Ingrid Salete**.
+Desenvolvido por ## ** Ingrid Salete**.
 
